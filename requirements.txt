@@ -1,0 +1,5 @@
+langchain
+openai
+redis
+tiktoken
+firebase_admin
